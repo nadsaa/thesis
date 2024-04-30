@@ -1,0 +1,10 @@
+archived
+__pycache__
+*.pt
+*.png
+*.jpg
+*.json
+*.cfg
+*.txt
+*.pth
+*.csv

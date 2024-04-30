@@ -1,0 +1,92 @@
+[
+    {
+        "id": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-007",
+        "pt": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-007/HGJ-007_ct.nii.gz",
+        "seg": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-007/HGJ-007_gt.nii.gz",
+        "fold": 0
+    },
+    {
+        "id": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-016",
+        "pt": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-016/HGJ-016_ct.nii.gz",
+        "seg": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-016/HGJ-016_gt.nii.gz",
+        "fold": 0
+    },
+    {
+        "id": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-029",
+        "pt": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-029/HGJ-029_ct.nii.gz",
+        "seg": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-029/HGJ-029_gt.nii.gz",
+        "fold": 0
+    },
+    {
+        "id": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-034",
+        "pt": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-034/HGJ-034_ct.nii.gz",
+        "seg": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-034/HGJ-034_gt.nii.gz",
+        "fold": 0
+    },
+    {
+        "id": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-052",
+        "pt": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-052/HGJ-052_ct.nii.gz",
+        "seg": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-052/HGJ-052_gt.nii.gz",
+        "fold": 0
+    },
+    {
+        "id": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-053",
+        "pt": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-053/HGJ-053_ct.nii.gz",
+        "seg": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-053/HGJ-053_gt.nii.gz",
+        "fold": 0
+    },
+    {
+        "id": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-055",
+        "pt": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-055/HGJ-055_ct.nii.gz",
+        "seg": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-055/HGJ-055_gt.nii.gz",
+        "fold": 0
+    },
+    {
+        "id": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-057",
+        "pt": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-057/HGJ-057_ct.nii.gz",
+        "seg": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-057/HGJ-057_gt.nii.gz",
+        "fold": 0
+    },
+    {
+        "id": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-058",
+        "pt": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-058/HGJ-058_ct.nii.gz",
+        "seg": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-058/HGJ-058_gt.nii.gz",
+        "fold": 0
+    },
+    {
+        "id": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-066",
+        "pt": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-066/HGJ-066_ct.nii.gz",
+        "seg": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-066/HGJ-066_gt.nii.gz",
+        "fold": 0
+    },
+    {
+        "id": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-077",
+        "pt": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-077/HGJ-077_ct.nii.gz",
+        "seg": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-077/HGJ-077_gt.nii.gz",
+        "fold": 0
+    },
+    {
+        "id": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-081",
+        "pt": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-081/HGJ-081_ct.nii.gz",
+        "seg": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-081/HGJ-081_gt.nii.gz",
+        "fold": 0
+    },
+    {
+        "id": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-085",
+        "pt": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-085/HGJ-085_ct.nii.gz",
+        "seg": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-085/HGJ-085_gt.nii.gz",
+        "fold": 0
+    },
+    {
+        "id": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-087",
+        "pt": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-087/HGJ-087_ct.nii.gz",
+        "seg": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-087/HGJ-087_gt.nii.gz",
+        "fold": 0
+    },
+    {
+        "id": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-088",
+        "pt": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-088/HGJ-088_ct.nii.gz",
+        "seg": "/home/nada.saadi/MIS-FM/hecktor2022_cropped/data/HGJ-088/HGJ-088_gt.nii.gz",
+        "fold": 0
+    }
+]
